@@ -1,4 +1,4 @@
-# Challenge-6-
+# Weather Dashboard
 
 ## Description 
 This website is a weather dashboard to display the current weather for a user-searched city along with a 5 day forecast. This project demonstrates my ability to use; HTML, Bulma, CSS, Javascript and 3rd party APIs to create a weather dashboard a savable search history. A convenient reload of weather locations of interest for the User. Highlighted proficiencies during development:
